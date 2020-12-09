@@ -264,6 +264,7 @@ in {
           ob-http
           mpdel
           org-plus-contrib
+          dictionary
         ];
       };
 
